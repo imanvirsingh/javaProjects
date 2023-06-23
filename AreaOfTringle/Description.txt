@@ -1,0 +1,1 @@
+This Java program is designed to find the area of triangle. By two methods, first by base and height. Secondly, by all three sides of triangle. The program is developed in Java programming language and uses math library.
